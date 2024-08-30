@@ -4,4 +4,4 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e comportilamento dos meus projetos desenvolvidos
 
-![https://tenor.com/cF2pyv9mOev.gif]
+! [https://tenor.com/cF2pyv9mOev.gif]
